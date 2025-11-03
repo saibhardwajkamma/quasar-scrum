@@ -9,7 +9,6 @@ Few Features:
 * Homepage with basic details, pricing
 
 ## Resources used
-* [Quasar Framework](https://quasar.dev/)
 * [Vue.js](https://vuejs.org/)
 
 ## Installation
