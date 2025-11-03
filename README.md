@@ -71,8 +71,6 @@ For queries or contributions, please reach out at "saibhardwaj007@gmail.com".
 	</kbd>
 </p>
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 
 ## About the Maintainer
