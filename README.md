@@ -8,8 +8,6 @@ Few Features:
 * Taskboard List View
 * Homepage with basic details, pricing
 
-## Site: [https://quasar-scrum.netlify.com/](https://quasar-scrum.netlify.com/)
-
 ## Resources used
 * [Quasar Framework](https://quasar.dev/)
 * [Vue.js](https://vuejs.org/)
@@ -77,9 +75,6 @@ For queries or contributions, please reach out at "saibhardwaj007@gmail.com".
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
 
 ## About the Maintainer
 
